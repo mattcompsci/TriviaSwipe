@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/999diSR)
+![alt text](log.png)
 
 This is my first Android game. It is a basic trivia application where the player(s) swipe to determine score. There are a couple bugs and missing features, but nothing game breaking. 
 
